@@ -33,6 +33,7 @@ jobs:
             texlive-luatex \
             texlive-latex-recommended \
             texlive-latex-extra \
+            texlive-fonts-extra \
             texlive-lang-japanese \
             texlive-bibtex-extra \
             biber
