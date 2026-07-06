@@ -1,0 +1,23 @@
+{
+  "latex-workshop.latex.outDir": "%DIR%/TeX_pdf",
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "LuaLaTeX",
+      "tools": ["lualatexmk"]
+    }
+  ],
+  "latex-workshop.latex.tools": [
+    {
+      "name": "lualatexmk",
+      "command": "latexmk",
+      "args": [
+        "-lualatex",
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-outdir=%DIR%/TeX_pdf",
+        "%DOC%"
+      ]
+    }
+  ]
+}
