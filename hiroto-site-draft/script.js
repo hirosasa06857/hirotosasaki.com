@@ -34,7 +34,7 @@ const translations = {
     footerName: "Hiroto Sasaki"
   },
   ja: {
-    siteTitle: "笹木宏人",
+    siteTitle: "笹木 宏人",
     navPublications: "論文",
     navCv: "CV",
     navContact: "連絡先",
@@ -64,7 +64,7 @@ const translations = {
     contactOfficeLabel: "研究室",
     contactAffiliationLabel: "所属",
     contactAffiliationValue: "Department of Mathematics, Washington University in St. Louis",
-    footerName: "笹木宏人"
+    footerName: "笹木 宏人"
   }
 };
 
